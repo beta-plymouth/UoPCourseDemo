@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eSr35ZYWB0BeWNjcC1Iss7DOkFyycvqSnHaoa2ryf0g=",
+  "Source": "authenticatorDEV",
+  "BasePath": "_content/authenticatorDEV",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
