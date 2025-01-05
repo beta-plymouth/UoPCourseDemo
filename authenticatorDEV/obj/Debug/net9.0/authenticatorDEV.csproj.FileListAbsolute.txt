@@ -31,3 +31,4 @@
 /Users/beta/data/Dropbox/II/UoP-COMP2001HK-IMR-202410/src/authenticatorDEV/obj/Debug/net9.0/authenticatorDEV.pdb
 /Users/beta/data/Dropbox/II/UoP-COMP2001HK-IMR-202410/src/authenticatorDEV/obj/Debug/net9.0/authenticatorDEV.genruntimeconfig.cache
 /Users/beta/data/Dropbox/II/UoP-COMP2001HK-IMR-202410/src/authenticatorDEV/obj/Debug/net9.0/ref/authenticatorDEV.dll
+/Users/beta/data/Dropbox/II/UoP-COMP2001HK-IMR-202410/src/authenticatorDEV/obj/Debug/net9.0/authenticatorDEV.sourcelink.json
