@@ -1,6 +1,0 @@
-@authen_HostAddress = http://localhost:5043
-
-GET {{authen_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
